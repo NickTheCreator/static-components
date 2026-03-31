@@ -17,13 +17,11 @@ This repository includes different basic web UI components that follow simple de
 ## 📁 Project Structure
 
 ```
-
+Layouts/
+├── email-copy/
+│   ├── email.html
+│   └── email.css
 Section-static/
-├── README.md (this file)
-├── app-layout/
-│   └── email-copy/
-│       ├── email.html
-│       └── email.css
 ├── static-accordion/
 │   ├── 01-accordion.html
 │   └── accordion.css
@@ -41,6 +39,7 @@ Section-static/
 └── static-table/
     ├── 05-table.html
     └── table.css
+README.md (this file)
 ```
 
 
