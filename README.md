@@ -18,9 +18,15 @@ This repository includes different basic web UI components that follow simple de
 
 ```
 Layouts/
-├── email-copy/
-│   ├── email.html
-│   └── email.css
+└── email-copy/
+    ├── email.html
+    └── email.css
+Preview/
+├──preview-accordion.png
+├──preview-carousel.png
+├──preview-hero.png
+├──preview-pagination.png
+└──preview-table.png
 Section-static/
 ├── static-accordion/
 │   ├── 01-accordion.html
