@@ -1,4 +1,4 @@
-# UI design collection Collection
+# UI Design Collection
 
 Welcome to a collection of HTML and CSS components and layouts. This repository contains reusable UI components and layouts built with pure HTML and CSS, made to practice, as an inspiration and to use in projects.
 
